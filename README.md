@@ -4,7 +4,9 @@ COVID-19 Detection Using Chest X-Ray Images and Deep Convolutional Neural Networ
 # Distribution of Dataset:
 
 https://github.com/ieee8023/covid-chestxray-dataset (COVID-19 Chest X-Ray Images)
+
 https://nihcc.app.box.com/v/ChestXray-NIHCC/ (Normal Chest X-Ray Images)
+
 https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia (Bacterial & Viral Pneumonia Chest X-Ray Images)
 
 # Citation:
