@@ -112,8 +112,8 @@ from livelossplot import PlotLossesKeras
 
 !unzip drive/c_b_covid_fold5
 
-training_data_dir ="c_b_covid_fold5/train" 
-validation_data_dir = "c_b_covid_fold5/test"
+training_data_dir ="c_b_covid_fold5/train" #80%
+validation_data_dir = "c_b_covid_fold5/test" #20%
 
 # Hyperparams
 IMAGE_SIZE = 224
