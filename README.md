@@ -9,6 +9,8 @@ https://nihcc.app.box.com/v/ChestXray-NIHCC/ (Normal Chest X-Ray Images)
 
 https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia (Bacterial & Viral Pneumonia Chest X-Ray Images)
 
+You can access the required dataset to run the code from this link (http://www.mediafire.com/file/3k4theqo7n2f0kg/c_b_covid_fold5.zip/file). 
+
 # Citation:
 
 If you find our work useful, you can cite our paper using:
