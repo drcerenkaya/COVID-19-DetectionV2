@@ -101,6 +101,8 @@ from tensorflow.keras.wrappers.scikit_learn import KerasClassifier
 import matplotlib.pyplot as plt
 import tensorflow as tf
 from tensorflow.keras.applications.resnet50 import ResNet50
+from PIL import Image, ImageFile
+ImageFile.LOAD_TRUNCATED_IMAGES = True
 GOOGLE_COLAB = True
 TRAINING_LOGS_FILE = "training_logs.csv"
 MODEL_SUMMARY_FILE = "model_summary.txt"
