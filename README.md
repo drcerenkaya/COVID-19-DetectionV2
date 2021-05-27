@@ -13,7 +13,7 @@ You can access the required dataset to run the code from following link (http://
 
 # Citation:
 
-If you find our work useful, you can cite our paper using:
+If you find our work useful, you can cite our paper (https://link.springer.com/article/10.1007%2Fs10044-021-00984-y) using:
 
 ```
 @article{narin2021automatic,
