@@ -16,10 +16,12 @@ You can access the required dataset to run the code from following link (http://
 If you find our work useful, you can cite our paper using:
 
 ```
-@article{narin2020automatic,
-  title={Automatic Detection of Coronavirus Disease (COVID-19) Using X-ray Images and Deep Convolutional Neural Networks},
-  author={Narin, Ali and Kaya, Ceren and Pamuk, Ziynet},
-  journal={arXiv preprint arXiv:2003.10849},
-  year={2020}
+@article{narin2021automatic,
+  title = {Automatic detection of coronavirus disease (COVID-19) using X-ray images and deep convolutional neural networks},
+  author = {Narin A, Kaya C, and Pamuk Z},
+  journal = {Pattern Analysis and Applications},
+  year = {2021},
+  pages = {1-14},
+  doi = {10.1007/s10044-021-00984-y}
 }
 ```
