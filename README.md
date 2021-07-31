@@ -21,7 +21,8 @@ If you find our work useful, you can cite our paper (https://link.springer.com/a
   author = {Narin A, Kaya C, and Pamuk Z},
   journal = {Pattern Analysis and Applications},
   year = {2021},
-  pages = {1-14},
+  volume = {24},
+  pages = {1207-1220},
   doi = {10.1007/s10044-021-00984-y}
 }
 ```
